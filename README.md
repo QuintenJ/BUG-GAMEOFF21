@@ -28,3 +28,9 @@ As usual, you may interpret ‘BUG’ however you wish …
 * to bother or annoy or pester
 * to plant a listening device
 * to “bug off” or “bug out”
+
+Or go rogue and ignore the dictionary:
+
+* B.U.G acronyms e.g. Being Unusually Good or Big Urban Game or something
+* Dad jokes / puns like deterants / tick tock / spelling bee / flywheel
+Note: Nobody’s judging the code quality, so lots of bugs are both expected and accepted. Focus on having fun 😉
